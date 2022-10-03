@@ -1,9 +1,0 @@
-crystine = 0.08 
-lysine = 0.14 
-glycine = 0.26 
-serine = 0.27 
-alanine = 0.38 
-proline = 0.43 
-valine = 0.60 
-leucine = 0.73 
-amino_acid = [crystine,lysine,glycine,serine,alanine,proline,valine,leucine]
