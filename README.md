@@ -3,7 +3,6 @@ This is the CLI version for geeks
 GUI and Web editions are on their way 
 
 # How to?
-Run:
     python index.py 
 
 Then, Enter Amino acid displacement and solvent front
