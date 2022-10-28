@@ -16,7 +16,7 @@ But you can probably find the web thing <a href="https://therealteddy.github.io/
 
 #### Source code 
 
-For linux and the <a href="https://github.com/therealteddy/rFinator/tree/cli">
+For linux and the <a href="https://github.com/therealteddy/rFinator/tree/cli"> like </a>
 
     git clone https://github.com/therealteddy/rFinator.git
     cd rFinator/ 
